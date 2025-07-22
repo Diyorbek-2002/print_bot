@@ -1,4 +1,4 @@
 python-telegram-bot==20.3
-aiohttp==3.8.4
-pymupdf==1.22.3
+aiohttp==3.8.6
+PyMuPDF==1.22.3
 python-dotenv==1.0.0
